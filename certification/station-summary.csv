@@ -1,0 +1,4 @@
+station_id,habitat,valid_observations,confirmed_observations,review_observations,protected_confirmed
+CAM-01,Coastal Dune,2,1,1,1
+CAM-02,Salt Marsh,1,0,1,0
+CAM-03,Rocky Ridge,2,2,0,1
